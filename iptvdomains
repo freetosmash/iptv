@@ -1,1 +1,9 @@
 
+#!name= IPTV RULE
+#!desc= 我常用的IPTV规则
+
+[Rule]
+IP-CIDR,8.210.12.190/32,DIRECT
+DOMAIN-SUFFIX,stream-link.org,DIRECT
+DOMAIN-SUFFIX,stream-link.online,DIRECT
+
