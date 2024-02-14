@@ -3,6 +3,7 @@
 
 [Rule]
 DOMAIN-SUFFIX,stream-link.org,DIRECT
+DOMAIN-SUFFIX,365emby.top,DIRECT
 DOMAIN-SUFFIX,stream-link.online,DIRECT
 DOMAIN-SUFFIX,kglink.xyz,DIRECT
 DOMAIN-SUFFIX,ulivetv.net,DIRECT
