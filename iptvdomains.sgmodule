@@ -2,7 +2,6 @@
 #!desc= 我常用的IPTV规则
 
 [Rule]
-DOMAIN-SUFFIX,stream-link.org,PROXY 
 DOMAIN-SUFFIX,365emby.top,DIRECT
 DOMAIN-SUFFIX,kglink.xyz,DIRECT
 DOMAIN-SUFFIX,ulivetv.net,DIRECT
